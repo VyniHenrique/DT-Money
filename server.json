@@ -16,6 +16,15 @@
 			"category": "Alimentação",
 			"price": 59,
 			"createdAt": "2025-04-06T20:42:51.120Z"
+		},
+
+		{
+			"id": 3,
+			"description": "Pizzas",
+			"type": "outcome",
+			"category": "Alimentação",
+			"price": 100,
+			"createdAt": "2025-04-06T20:32:51.120Z"
 		}
 	]
 }
