@@ -28,6 +28,8 @@ export function TransactionProvider( {children}: TransactionProviderProps ){
 	async function fecthTransactions (query?: string){
 	const response = await api.get('/transactions', {
 		params: {
+			_sort: 'createdAt', 
+			_order: 'desc',
 			q: query
 		}
 	})

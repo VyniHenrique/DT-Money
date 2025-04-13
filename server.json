@@ -1,30 +1,28 @@
 {
-	"transactions": [
-		{
-			"id": 1,
-			"description": "Desenvolvimento do site",
-			"type": "income",
-			"category": "Venda",
-			"price": 12000,
-			"createdAt": "2025-04-06T20:52:51.120Z"
-		},
-
-		{
-			"id": 2,
-			"description": "Hambúrguer",
-			"type": "outcome",
-			"category": "Alimentação",
-			"price": 59,
-			"createdAt": "2025-04-06T20:42:51.120Z"
-		},
-
-		{
-			"id": 3,
-			"description": "Pizzas",
-			"type": "outcome",
-			"category": "Alimentação",
-			"price": 100,
-			"createdAt": "2025-04-06T20:32:51.120Z"
-		}
-	]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2025-04-06T20:52:51.120Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2025-04-06T20:42:51.120Z"
+    },
+    {
+      "id": 3,
+      "description": "Pizzas",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2025-04-06T20:32:51.120Z"
+    }
+  ]
 }
